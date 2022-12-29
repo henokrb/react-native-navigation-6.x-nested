@@ -49,7 +49,7 @@ This Boilerplate is Firebase ready. You can put your credentials in .env file.
 1. Clone repository
 
 ```shell
-git clone https://github.com/jackbalageru/react-native-nested-navigation-6.x.git
+git clone https://github.com/jackbalageru/react-native-navigation-6.x-nested
 ```
 
 2. This Boilerplate uses Expo. Install dependencies, **expo start** and happy coding.
